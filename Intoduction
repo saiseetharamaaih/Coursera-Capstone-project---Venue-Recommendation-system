@@ -1,0 +1,40 @@
+
+
+
+													DATA SCIENCE PROJECT:
+
+
+
+
+ 												VENUE RECOMMENDATION SYSTEM
+ 
+ 
+ 
+ 
+ 
+ 
+Introduction:
+
+Problem statement: In Toronto city, Based on User ratings to a set of restaurants, we have to recommend the K-most likelihood restaurants that user might visit.
+
+Target Audience: Beneficial for both Users and Restaurant owners in Toronto city.
+
+Data requirements: 
+1.	Restaurants in Toronto city and their details. 
+2.	User details.
+3.	Details of other users who rated the same restaurants rated by the user to whom we have to recommend.
+
+Introduction to recommender systems: 
+
+A recommender system refers to a system that is capable of predicting the future preference of a set of items for a user, and recommend the top items. One key reason why we need a recommender system in modern society is that people have too much options to use from due to the prevalence of Internet. In the past, people used to shop in a physical store, in which the items available are limited. For instance, the number of movies that can be placed in a Blockbuster store depends on the size of that store. By contrast, nowadays, the Internet allows people to access abundant resources online. Netflix, for example, has an enormous collection of movies. Although the amount of available information increased, a new problem arose as people had a hard time selecting the items they actually want to see. This is where the recommender system comes in. 
+
+Traditional Approach:
+
+Traditionally, there are two methods to construct a recommender system:
+•	Content-based recommendation
+•	Collaborative Filtering
+The first one analyzes the nature of each item. For instance, recommending poets to a user by performing Natural Language Processing on the content of each poet. Collaborative Filtering, on the other hand, does not require any information about the items or the users themselves. It recommends items based on users’ past behavior. I will elaborate more on Collaborative Filtering in the following paragraphs.
+
+
+
+
